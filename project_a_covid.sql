@@ -1,5 +1,4 @@
 --Covid-19 Deaths
-
 SELECT *
 FROM project_a..[covid-deaths]
 WHERE continent IS NOT NULL
